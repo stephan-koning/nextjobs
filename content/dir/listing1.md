@@ -1,12 +1,10 @@
-
----
-cover: /logo.png
-featured: true
-tags:
-  - SAAS
 ---
 
+cover: /logo.png featured: true tags:
 
+- SAAS
+
+---
 
 title: "Awesome Agency OS"
 
@@ -30,10 +28,10 @@ tags:
 
 **Key Features:**
 
-\* **Free and open-source tools:**  No expensive subscriptions required!
+\* **Free and open-source tools:** No expensive subscriptions required!
 
-\* **Modular and customizable:**  Choose the tools that fit your agency's needs.
+\* **Modular and customizable:** Choose the tools that fit your agency's needs.
 
-\* **Community-driven:**  Benefit from the collective knowledge of other agencies.
+\* **Community-driven:** Benefit from the collective knowledge of other agencies.
 
 **Get started today and optimize your agency workflow!** \[Link to Awesome Agency OS]
