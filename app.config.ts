@@ -2,7 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    title: "Minted Directory",
+    title: "Dropship Data",
     logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -56,15 +56,24 @@ export default defineAppConfig({
       icon: "tabler:star",
       labelForCard: "Featured ✨",
     },
-    tags: [
-      { name: "SAAS", color: "blue" },
-      { name: "dashboard", color: "green" },
-      { name: "landing-page" },
-      { name: "toolbox" },
-      { name: "agency" },
-      { name: "markdown-based" },
-      { name: "basics", color: "indigo" },
-    ],
+    tags: [{
+      name: "Boss",
+      color: "blue",
+    }, {
+      name: "dashboard",
+      color: "green",
+    }, {
+      name: "landing-page",
+    }, {
+      name: "toolbox",
+    }, {
+      name: "agency",
+    }, {
+      name: "markdown-based",
+    }, {
+      name: "basics",
+      color: "indigo",
+    }],
     tagPages: {
       title: "Available {0} products:",
       description:

@@ -14,5 +14,4 @@ Read the best articles related to the directory. And earn SEO points by writing 
 ::
 
 ::blog-grid
-![TestSEO](https://res.cloudinary.com/hlnsbykoning/image/upload/q_auto:eco/v1732145818/what-does-seo-stand-for_tvteaq.webp)
 ::
